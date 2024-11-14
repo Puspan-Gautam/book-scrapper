@@ -1,6 +1,9 @@
 import requests                       # requests method -> 2  ->  POST and GET
-from bs4 import BeautifulSoup         # html lai parsing garna chai beautifulsoup library use garxum
 import sqlite3
+
+from bs4 import BeautifulSoup         # html lai parsing garna chai beautifulsoup library use garxumgit
+
+# git tutorial
 
 
 def create_database():
