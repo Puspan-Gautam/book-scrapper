@@ -4,6 +4,34 @@ import sqlite3
 from bs4 import BeautifulSoup         # html lai parsing garna chai beautifulsoup library use garxumgit
 
 # git tutorial
+# install git
+# create repository in github
+
+
+####################################
+# go to git bash
+# git config --global user.name"Puspan Gautam"
+# git config --global user.email "gautampuspan9@gmail.com"
+
+
+#####################################
+# git init 
+# git status => f you want to check what are the status of files
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -, "Your message"
+# Copy paste git code from github
+
+
+####################################
+
+# Change the code  => kei code change garepaxi garnai parney kura
+# 1. git add .
+# 2. git commit -m "Your message"
+# 3. git push origin
+
+
+
 
 
 def create_database():
